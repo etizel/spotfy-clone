@@ -20,4 +20,5 @@ a {
 }
 .header__link:hover {
 text-decoration: underline;
-}
+};
+.main {}
